@@ -3,12 +3,12 @@
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Imane YASSIRI'
-		current_edu = "Mohammed VI Polytechnic University"
-		hobbies = [
-				'Reading',
-				'Solving puzzle games'
-			]
+	user = 'Imane YASSIRI'
+	current_edu = "Mohammed VI Polytechnic University"
+	hobbies = [
+			'Reading',
+			'Solving puzzle games'
+		]
 	def getCity():
 		return Marrakech()
  ```
