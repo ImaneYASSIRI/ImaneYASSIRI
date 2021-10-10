@@ -1,4 +1,8 @@
-![](https://komarev.com/ghpvc/?username=ImaneYASSIRI)
+<div align="center"> 
+	
+![](https://komarev.com/ghpvc/?username=ImaneYASSIRI&color=blueviolet)
+	
+</div>
 
 ## Who am I?
  ```python
