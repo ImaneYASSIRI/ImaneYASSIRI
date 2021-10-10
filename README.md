@@ -1,9 +1,3 @@
-<div align="center"> 
-	
-![](https://komarev.com/ghpvc/?username=ImaneYASSIRI&color=blueviolet)
-	
-</div>
-
 ## Who am I?
  ```python
  class WhoAmI:
@@ -28,6 +22,13 @@
 	      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 	 </a>
 </p>
+
+<div align="center"> 
+	
+![](https://komarev.com/ghpvc/?username=ImaneYASSIRI&color=blueviolet)
+	
+</div>
+
 
 ## Quick stats about me
 | Github Stats | Top Languages |
