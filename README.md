@@ -1,3 +1,3 @@
+![Imane YASSIRI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImaneYASSIRI&theme=midnight-purple)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ImaneYASSIRI&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="360" >
-<div align='left'>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneYASSIRI&langs_count=8&layout=compact&theme=midnight-purple)
