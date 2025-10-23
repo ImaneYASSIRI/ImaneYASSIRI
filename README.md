@@ -108,6 +108,9 @@
 	<a>
 	      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 	</a>
+	<a>
+	      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mysql&logoColor=white"/>
+	</a>
 </p>
 
 ### IDE
