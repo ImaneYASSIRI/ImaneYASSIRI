@@ -99,7 +99,7 @@
 	      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 	</a>
 	<a>
-	      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+	      <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"/>
 	</a>
 </p>
 
